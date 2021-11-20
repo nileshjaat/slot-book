@@ -1,0 +1,1 @@
+export const SET_SLOT_DETAILS = 'SET_SLOT_DETAILS';

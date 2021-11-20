@@ -1,0 +1,10 @@
+.heading {
+    text-align: center;
+}
+
+.wrapper {
+    padding: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
